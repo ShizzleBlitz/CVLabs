@@ -37,8 +37,8 @@ Depth Measurement and Depth Map Visualization using OpenCV.
 ### Lab 11
 Implementation of Shallow (KLT) and Dense (Horn-Schunck) Optical Flow Estimation.
 
-## Lab 12
+### Lab 12
 Segmentation of Images using YOLOV8 model.
 
-## Lab 13
+### Lab 13
 Real-time detection, classification and segmentation using YOLOV8 model.
